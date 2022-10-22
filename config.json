@@ -1,0 +1,9 @@
+{
+    "name": "Billy NEreusom",
+    "product":"",
+    "mask": "CPF|SENHA OR EMAIL|SENHA",
+    "type": "login",
+    "useProxy": false,
+    "bots": 100,
+    "useCaptcha": false
+}
